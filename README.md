@@ -5,6 +5,7 @@ My name is Alexander Lerch and I lead the [Music Informatics Group](https://musi
 Repositories related to my book [An Introduction to Audio Content Analysis](https://www.AudioContentAnalysis.org) are
 * [matlab code](https://github.com/alexanderlerch/ACA-Code)
 * [python code](https://github.com/alexanderlerch/pyACA)
+* [c++ code](https://github.com/alexanderlerch/libACA)
 * [plots with code from the book](https://github.com/alexanderlerch/ACA-Plots)
 * [lecture slides](https://github.com/alexanderlerch/ACA-Slides)
 	
