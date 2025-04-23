@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alexander Lerch and I lead the [Music Informatics Group](https://musicinformatics.gatech.edu) at the Georgia Institute of Technology, where we work on machine learning and intelligent signal processing solutions for music.
+My name is [Alexander Lerch](https://www.linkedin.com/in/lerch) and I lead the [Music Informatics Group](https://musicinformatics.gatech.edu) at the Georgia Institute of Technology, where we work on machine learning and intelligent signal processing solutions for music.
 
 Repositories related to my book [An Introduction to Audio Content Analysis](https://www.AudioContentAnalysis.org) are
 * [matlab code](https://github.com/alexanderlerch/ACA-Code)
