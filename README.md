@@ -10,7 +10,7 @@ Repositories related to my book [An Introduction to Audio Content Analysis](http
 * [lecture slides](https://github.com/alexanderlerch/ACA-Slides)
 	* [plots with matlab code from book/slides](https://github.com/alexanderlerch/ACA-Plots)
 * list of [datasets for MIR](https://gist.github.com/e3516bffc08ea77b429c419051ab793a)
-* list of [Music Information Retrieval (MIR) conferences](http://http://mir-conferences.audiocontentanalysis.org)
+* list of [Music Information Retrieval (MIR) conferences](http://mir-conferences.audiocontentanalysis.org)
 
   
 Also check out my [website](http://www.alexanderlerch.com).
